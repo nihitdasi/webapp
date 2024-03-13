@@ -6,7 +6,7 @@
     <!-- SonarQube project key -->
     <sonar.projectKey>webapp</sonar.projectKey>
     <!-- SonarQube authentication token (if required) -->
-    <!-- <sonar.login>sqp_6c7dd28eb9a5a2a29e234f6a4cfbef24495a08cf</sonar.login> -->
+    <sonar.login>sqp_6c7dd28eb9a5a2a29e234f6a4cfbef24495a08cf</sonar.login>
   </properties>
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.mkyong</groupId>
